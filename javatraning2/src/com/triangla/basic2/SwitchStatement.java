@@ -6,7 +6,7 @@ public class SwitchStatement {
     public static void main(String[] args) {
 
 
-        String name = "rana hossain hassan";
+        String name = "Ritu";
         switch (name) {
 
             case "Ritu":
